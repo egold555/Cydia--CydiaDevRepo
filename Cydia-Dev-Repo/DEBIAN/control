@@ -1,0 +1,9 @@
+Package: org.golde.cydia.DevRepoInstaller
+Name: Eric's Dev Repo Installer
+Author: Eric Golde
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Installs my Cydia dev repo. ** WARNING! My dev repo is not for most people. If you don't know what your doing don't install my Dev repo. It may contain bugs that can permantly crash your phone and or Cydia. My dev repo is there so I can test to make sure things work before posting it on my main repo. Feel free to check it out but you have been warned. 
+Homepage: http://eric.golde.org/cydia
+Maintainer: Eric Golde
+Section: ECR_Dev
